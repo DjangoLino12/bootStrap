@@ -1,2 +1,0 @@
-# bootStrap
-Created with CodeSandbox
